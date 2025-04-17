@@ -7,9 +7,7 @@
 Antes de rodar o projeto localmente, você precisará ter as seguintes ferramentas instaladas:
 
 - [Node.js](https://nodejs.org) (recomenda-se a versão LTS)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) (para rodar o app em um dispositivo ou emulador)
 - [Git](https://git-scm.com/) (para clonar o repositório)
-- Um dispositivo físico ou emulador Android/iOS para testar a aplicação
 
 ### Instalando o Node.js
 
@@ -26,16 +24,6 @@ node -v
 npm -v
 ```
 Esses comandos devem retornar a versão do Node.js e do npm instalados em sua máquina.
-
-### Instalando o Expo CLI
-
-Para instalar o Expo CLI, use o npm ou yarn:
-
-```bash
-npm install -g expo-cli
-# ou
-yarn global add expo-cli
-```
 
 ### Instalando o Git
 
